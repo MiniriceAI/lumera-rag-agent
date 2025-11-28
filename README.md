@@ -32,7 +32,7 @@ Lumera AI Assistant 是一套从0到1设计并交付的**基于多智能体RAG�
 
 **点击观看完整演示视频**
 
-[![Demo Video](https://img.youtube.com/vi/ntxbJ3Cagb8/maxresdefault.jpg)](https://youtu.be/2n4AFSCBUZQ)
+[![Demo Video](https://img.youtube.com/vi/2n4AFSCBUZQ/maxresdefault.jpg)](https://youtu.be/2n4AFSCBUZQ)
 
 </div>
 
