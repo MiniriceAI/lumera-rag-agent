@@ -14,22 +14,6 @@
 
 </div>
 
----
-
-## 📋 目录
-
-- [项目概述](#-项目概述)
-- [项目演示](#-项目演示)
-- [核心挑战与解决方案](#-核心挑战与解决方案)
-- [技术架构](#-技术架构)
-- [系统流程](#-系统流程)
-- [核心特性](#-核心特性)
-- [性能指标](#-性能指标)
-- [技术栈](#-技术栈)
-- [联系方式](#-联系方式)
-
----
-
 ## 🎯 项目概述
 
 Lumera AI Assistant 是一套从0到1设计并交付的**基于多智能体RAG架构的智能电商客服系统**，旨在解决电商平台售前咨询转化率低、售后处理流程冗长等核心痛点。系统已成功落地，深度整合进企业售前售后工作流，通过飞书和企业微信等企业应用，为内部团队和外部用户提供智能客服服务。
@@ -48,7 +32,7 @@ Lumera AI Assistant 是一套从0到1设计并交付的**基于多智能体RAG�
 
 **点击观看完整演示视频**
 
-[![Demo Video](https://img.youtube.com/vi/ntxbJ3Cagb8/maxresdefault.jpg)](https://youtu.be/ioAaK-zofTQ)
+[![Demo Video](https://img.youtube.com/vi/ntxbJ3Cagb8/maxresdefault.jpg)](https://youtu.be/2n4AFSCBUZQ)
 
 </div>
 
